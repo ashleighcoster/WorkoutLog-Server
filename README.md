@@ -24,6 +24,7 @@ ASSIGNMENT SCREENSHOTS: Testing code using Postman and PG Admin
 
 #5: GET - '/log/:id' Endpoint Screenshot:
 -- Gets individual logs by ID for an individual user --
+![GET-log-byID](https://user-images.githubusercontent.com/78281333/116020599-9f790f80-a614-11eb-887e-49d7e6a4f15f.png)
 
 
 #6: PUT - '/log/:id' Endpoint Screenshot:
