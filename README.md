@@ -7,9 +7,9 @@ ASSIGNMENT SCREENSHOTS: Testing code using Postman and PG Admin
 ![POST-user-register](https://user-images.githubusercontent.com/78281333/116020010-70ae6980-a613-11eb-9903-553ad58e9adf.png)
 
 
-
 #2: POST - '/user/login' Endpoint Screenshot:
 -- Allows login with an existing user --
+![POST-user-login](https://user-images.githubusercontent.com/78281333/116020146-b703c880-a613-11eb-93fe-79c1549ebd41.png)
 
 
 #3: POST - '/log/' Endpoint Screenshot:
