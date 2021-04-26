@@ -4,6 +4,8 @@ ASSIGNMENT SCREENSHOTS: Testing code using Postman and PG Admin
 
 #1: POST - '/user/register' Endpoint Screenshot:
 -- Allows a new user to be created with username and password --
+![POST-user-register](https://user-images.githubusercontent.com/78281333/116020010-70ae6980-a613-11eb-9903-553ad58e9adf.png)
+
 
 
 #2: POST - '/user/login' Endpoint Screenshot:
