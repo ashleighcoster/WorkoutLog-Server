@@ -39,6 +39,7 @@ ASSIGNMENT SCREENSHOTS: Testing code using Postman and PG Admin
 
 
 #8: User model/table in PG Admin:
+![UserModel-pgAdmin](https://user-images.githubusercontent.com/78281333/116020947-4198f780-a615-11eb-9a78-bd9362276fd4.png)
 
 
 #9: Workout Log model/table in PG Admin: 
