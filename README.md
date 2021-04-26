@@ -29,6 +29,7 @@ ASSIGNMENT SCREENSHOTS: Testing code using Postman and PG Admin
 
 #6: PUT - '/log/:id' Endpoint Screenshot:
 -- Allows individual logs to be updated by a user -- 
+![PUT-log-byID](https://user-images.githubusercontent.com/78281333/116020692-d64f2580-a614-11eb-8051-bb7c80c786a8.png)
 
 
 #7: DELETE - '/log/:id' Endpoint Screenshot:
