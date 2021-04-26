@@ -34,6 +34,8 @@ ASSIGNMENT SCREENSHOTS: Testing code using Postman and PG Admin
 
 #7: DELETE - '/log/:id' Endpoint Screenshot:
 -- Allows individual logs to be deleted by a user -- 
+![DELETE-log-byID](https://user-images.githubusercontent.com/78281333/116020838-0e566880-a615-11eb-8535-87ee19d954dc.png)
+
 
 
 #8: User model/table in PG Admin:
