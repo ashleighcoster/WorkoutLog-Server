@@ -19,6 +19,7 @@ ASSIGNMENT SCREENSHOTS: Testing code using Postman and PG Admin
 
 #4: GET - '/log/' Endpoint Screenshot:
 -- Gets all logs for an individual user --
+![GET-log](https://user-images.githubusercontent.com/78281333/116020504-63de4580-a614-11eb-8255-d03162cdab82.png)
 
 
 #5: GET - '/log/:id' Endpoint Screenshot:
