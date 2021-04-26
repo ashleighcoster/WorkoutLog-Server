@@ -14,6 +14,7 @@ ASSIGNMENT SCREENSHOTS: Testing code using Postman and PG Admin
 
 #3: POST - '/log/' Endpoint Screenshot:
 -- Allows users to create workout logs --
+![POST-log](https://user-images.githubusercontent.com/78281333/116020326-0f3aca80-a614-11eb-8faf-bd6db03c2a14.png)
 
 
 #4: GET - '/log/' Endpoint Screenshot:
